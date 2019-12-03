@@ -1,6 +1,5 @@
-const { menu } = require('./menu');
+#!/usr/bin/env node
 const program = require('commander');
-const inquirer = require('inquirer');
 var request = require("request");
 var readline = require("readline");
 var COLOR = require('colors/safe');
