@@ -2,7 +2,7 @@
   "name": "dict",
   "version": "1.0.0",
   "description": "A command-line dictionary search system",
-  "main": "index.js",
+  "main": "dict.js",
   "author": "RaviTeja",
   "license": "MIT",
   "bin": "dict.js",
